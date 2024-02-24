@@ -1,0 +1,8 @@
+.infiniteScroll {
+  margin: auto;
+  /* margin: 20px; */
+  /* display: flex; */
+  /* justify-content: center; */
+  width: 50%;
+  height: 500px;
+}
